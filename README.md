@@ -14,10 +14,9 @@ The audit focused primarily on the security of funds and fault tolerance of the 
 
 In total, **5 issues** were reported including:
 
-- 2 high severity issues.
+- 4 high severity issues.
 
-- 2 medium severity issues.
-- 4 low severity issues.
+- 1 medium severity issues.
 
 - 1 minor observation.
 
